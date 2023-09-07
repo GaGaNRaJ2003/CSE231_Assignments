@@ -8,13 +8,16 @@ To use the ELF loader, follow these steps:
 1. Compile the loader.c source code using a C compiler. You can use `gcc`:
 
    ```bash
-   gcc loader.c -o loader
+   make
+   ```
+    ```bash
+   gcc loader.c
    ```
 
 2. Run the compiled `loader` program with the path to the ELF executable as a command-line argument:
 
    ```bash
-   ./loader.c any_file
+   ./loader any_file
    ```
    `any_file` is file you can change to execute the functioning of the loader.
 
