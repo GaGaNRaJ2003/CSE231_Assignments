@@ -19,7 +19,7 @@ To use the ELF loader, follow these steps:
    ```bash
    ./loader any_file
    ```
-   `any_file` is file you can change to execute the functioning of the loader.
+   `any_file` is file you can change to execute the functioning of the loader which in this case is fib.c
 
 3. The loader will load the ELF file into memory, execute it, and print the return value from the `_start` method (if present) to the console.
 
