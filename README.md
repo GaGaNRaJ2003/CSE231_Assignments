@@ -33,7 +33,10 @@ Here's a sneak peek at some of the assignments you'll find in this repository:
 
 1. [Assignment 1: "SimpleLoader: An ELF Loader in C from Scratch"](https://github.com/GaGaNRaJ2003/CSE231_Assignments/tree/main/Assignment_1)
    - Implement a SimpleLoader for loading an ELF 32-bit executable in plain-C.
-   - Without using any library APIs available for manipulating ELF files..
+   - Without using any library APIs available for manipulating ELF files.
+2. [Assignment 2: "SimpleShell: A Unix Shell in C from Scratch"](https://github.com/GaGaNRaJ2003/CSE231_Assignments/tree/main/Assignment_2)
+   - Implement a SimpleShell that waits for user input, executes commands provided in the user input, and then repeats until terminated using ctrl-C.
+   - Supports “&” for background processes and can execute the commands from inside a Shell Script (by reading that file). [BONUS]
 
 ## Contributors
 
