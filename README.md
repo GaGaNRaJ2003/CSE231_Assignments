@@ -5,7 +5,7 @@
 
 ### Welcome to the GitHub Repository!!
 
-![LINUX](https://media.giphy.com/media/3og0ICG4WxdKSRzE3K/giphy.gif))
+![LINUX](https://media.giphy.com/media/3og0ICG4WxdKSRzE3K/giphy.gif)
 
 ## Table of Contents
 
