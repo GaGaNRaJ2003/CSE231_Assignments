@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1 style="font-size: 50px;"># CSE231 Assignments - Monsoon 2023 🌧️</h1>
+  <h1 style="font-size: 50px;"> CSE231 Assignments - Monsoon 2023 🌧️</h1>
 </div>
 
 ### Welcome to the GitHub Repository!!
