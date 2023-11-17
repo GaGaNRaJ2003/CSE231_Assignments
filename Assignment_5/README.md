@@ -10,6 +10,7 @@ The code is neatly organized within the `CustomMultithreading` class, providing 
 To use this code in your own projects, follow these steps:
 1. Include the `CustomMultithreading` header file (`custom_multithreading.h`) in your C++ code.
 2. Use the `parallel_for` function(s) to do tasks in parallel.
+3. To Execute use `make` then `./vector`and `./matrix`
 
 ### Example Usage:
 
